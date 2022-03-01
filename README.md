@@ -15,6 +15,9 @@
 <a href="https://www.instagram.com/jameshreaver">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.mixcloud.com/jameshreaver">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mixcloud.svg" />
+</a>
 <br />
 
 ### I am James Reaver
