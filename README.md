@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/jameshreaver/jameshreaver/master/hi.gif" width="30px"></h2>
+## Hello there
 
 <a href="https://twitter.com/jameshreaver">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
