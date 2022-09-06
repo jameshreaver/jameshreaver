@@ -21,7 +21,7 @@
 <br />
 
 ### I am James Reaver
-I'm a software engineer based in London. I graduated at Imperial College in Computer Science and since then I have worked for the UK Government, Amazon and Chase. I love socialising, travelling, producing plays and radio shows!
+I'm a software engineer based in London. I graduated at Imperial College in Computer Science and since then I have worked for the UK Government, Amazon and Chase. I love socialising, travelling, producing plays and radio shows.
 - Full stack development
 - Scalable deployment
 - User-centered design
