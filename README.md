@@ -15,6 +15,6 @@
 <br />
 
 ### I am James Reaver
-I’m a software engineer in London. I read Computer Science at Imperial College London and worked for the British Government, Amazon and JP.Morgan. I love socialising, travelling, producing plays and radio shows.
+I'm a software engineer in London, United Kingdom. I studied Computer Science at Imperial College London and worked for the British Government, Amazon and JP.Morgan. My favourite things involve travelling, coding, socialising and writing threatre plays.
 
 More at [reaver.me](https://www.reaver.me).
